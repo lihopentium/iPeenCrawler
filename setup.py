@@ -2,7 +2,7 @@
 
 from setuptools import setup, find_packages
 
-#setup(name='iPeenCrawler',
+setup(name='iPeenCrawler',
       version='1.0',
       description='test fork from enginebai',
       author='enginebai',
